@@ -1,2 +1,3 @@
-# Ola mundo
- Primeiro versionamento
+# Olá, Mundo.
+
+ Iniciando o curso de Git e Github
